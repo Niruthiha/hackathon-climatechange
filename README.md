@@ -72,3 +72,14 @@ This will install all necessary libraries, including:
 
 ![image](https://github.com/user-attachments/assets/452dd040-d461-48bc-94ef-caad14baa62e)
 
+
+![image](https://github.com/user-attachments/assets/a57442a9-8b8a-4494-9219-29faffe26535)
+
+
+![image](https://github.com/user-attachments/assets/27dde2cd-4dd2-44b5-83de-fe9bb6874f78)
+
+
+![image](https://github.com/user-attachments/assets/b31ebdc2-4d3d-434d-a453-d4d94c4fca26)
+
+
+
