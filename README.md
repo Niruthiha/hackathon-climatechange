@@ -36,7 +36,9 @@ Purpose: This file defines the Retrieval-Augmented Generation (RAG) function use
 - Required Python packages listed in requirements.txt
 
 ## Data Source
-The data used for the Climate Change Chatbot is derived from the IPCC AR6 WGII Technical Summary (IPCC_AR6_WGII_TechnicalSummary.pdf). This technical summary complements and expands on the key findings of the Working Group II contribution to the Sixth Assessment Report (AR6), providing essential insights into climate change impacts and responses.
+The data used for the Climate Change Chatbot is derived from the Environment and Climate Change Canada (ECCC)
+IPCC (Intergovernmental Panel on Climate Change) Reports, including the latest 2023 Synthesis Report
+University of Manitoba climate research and expertise. This technical reports and documents providing essential insights into climate change impacts and responses.
 
 ## Evaluating the Model
 The script evaluates the fine-tuned model based on several metrics. It uses ChromaDB for document retrieval and the SentenceTransformers library for embedding calculations. Ensure you have the correct path to your ChromaDB storage and adjust the model ID as necessary.
