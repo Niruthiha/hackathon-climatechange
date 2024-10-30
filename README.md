@@ -70,3 +70,5 @@ This will install all necessary libraries, including:
 - chromadb: For creating and querying the vector database.
 - pypdf: For reading PDF documents.
 
+![image](https://github.com/user-attachments/assets/452dd040-d461-48bc-94ef-caad14baa62e)
+
